@@ -1,0 +1,114 @@
+.css-byyd3s {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-align-items: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    -webkit-justify-content: center;
+    justify-content: center;
+    min-width: 40px;
+    min-height: 25px;
+    width: 44px;
+    height: 44px;
+    margin-right: 16px;
+    border-radius: 50%;
+    background: url(https://img.29cm.co.kr/next29cm/myedit_sns_icon_mo.png) no-repeat;
+    -webkit-background-size: 180px 90px;
+    background-size: 180px 90px;
+    -webkit-background-position: 0 -49px;
+    background-position: 0 -49px;
+    vertical-align: top;
+    border: 2px solid #19ce60;
+}
+
+.css-17rofkg {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-align-items: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    -webkit-justify-content: center;
+    justify-content: center;
+    min-width: 40px;
+    min-height: 25px;
+    width: 44px;
+    height: 44px;
+    margin-right: 16px;
+    border-radius: 50%;
+    background: url(https://img.29cm.co.kr/next29cm/myedit_sns_icon_mo.png) no-repeat;
+    -webkit-background-size: 185px 90px;
+    background-size: 185px 90px;
+    -webkit-background-position: -49px -49px;
+    background-position: -49px -49px;
+    vertical-align: top;
+    border: 2px solid #fae100;
+}
+
+.css-3a10m9 {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-align-items: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    -webkit-justify-content: center;
+    justify-content: center;
+    min-width: 40px;
+    min-height: 25px;
+    width: 44px;
+    height: 44px;
+    margin-right: 16px;
+    border-radius: 50%;
+    background: url(https://img.29cm.co.kr/next29cm/myedit_sns_icon_mo.png) no-repeat;
+    -webkit-background-size: 190px 90px;
+    background-size: 190px 90px;
+    -webkit-background-position: -98px -49px;
+    background-position: -98px -49px;
+    vertical-align: top;
+    border: 2px solid #3b5998;
+}
+
+.css-mvgqia {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-align-items: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    -webkit-justify-content: center;
+    justify-content: center;
+    min-width: 40px;
+    min-height: 25px;
+    width: 44px;
+    height: 44px;
+    border-radius: 50%;
+    background: url(https://img.29cm.co.kr/next29cm/myedit_sns_icon_mo.png) no-repeat;
+    -webkit-background-size: 190px 90px;
+    background-size: 190px 90px;
+    -webkit-background-position: -147px -49px;
+    background-position: -147px -49px;
+    vertical-align: top;
+}
+
+button {
+    cursor: pointer;
+    border: 0px;
+}

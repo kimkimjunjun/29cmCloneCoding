@@ -1,0 +1,30 @@
+input[type=checkbox] {
+    width: 20px;
+    height: 10px;
+    color: #375fff;
+}
+
+:enabled {
+    transition: all 0.5s;
+}
+
+:disabled {
+    cursor: not-allowed;
+    transition: all 0.5s;
+}
+
+button:disabled {
+    width: 400px;
+    height: 48px;
+    background-color: rgb(196, 196, 196);
+    color: white;
+    font-size: 14px;
+}
+
+button:enabled {
+    width: 400px;
+    height: 48px;
+    background-color: #375fff;
+    color: white;
+    font-size: 14px;
+}
